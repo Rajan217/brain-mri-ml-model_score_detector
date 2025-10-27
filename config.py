@@ -1,0 +1,4 @@
+DATA_DIR = "./data"
+IMG_SIZE = (128, 128)
+RANDOM_SEED = 42
+TEST_SIZE = 0.2

@@ -1,0 +1,22 @@
+# Ignore Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+
+# Ignore large data
+data/
+*.zip
+*.rar
+
+# Ignore results and logs
+*.png
+*.jpg
+*.jpeg
+*.txt
+*.csv
+*.pkl
+*.npy
+*.h5
